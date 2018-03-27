@@ -19,6 +19,6 @@ function doWhileLoop(array){
 }
 do {
   array.pop();
-} while (maybeTrue() && arraylendeyh > 0);
+} while (maybeTrue() && array.length > 0);
   
 }
