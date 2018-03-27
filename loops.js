@@ -6,5 +6,9 @@ function forLoop(array){
 }
 
 function whileLoop(number){
-  while(let )
+  while(number > 0){
+   console.log(number);
+    number--;
+  }
+  return 'done';
 }
