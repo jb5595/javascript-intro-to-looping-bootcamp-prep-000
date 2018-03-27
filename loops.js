@@ -22,3 +22,4 @@ do {
 } while (maybeTrue() && array.length > 0);
   
 }
+return array;
