@@ -5,4 +5,6 @@ function forLoop(array){
   return array;
 }
 
-function whu
+function whileLoop(number){
+  while(let )
+}
